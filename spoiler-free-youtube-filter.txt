@@ -2,3 +2,4 @@
 www.youtube.com##.ytp-time-display
 www.youtube.com##.ytp-progress-bar
 www.youtube.com##.ytp-more-videos-view
+www.youtube.com##.ytp-pause-overlay
