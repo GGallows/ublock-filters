@@ -1,4 +1,4 @@
 ! 2024-08-07 Make youtube spoiler free
-www.youtube.com##.ytp-left-controls
+www.youtube.com##.ytp-time-display
 www.youtube.com##.ytp-progress-bar
 www.youtube.com##.ytp-more-videos-view
